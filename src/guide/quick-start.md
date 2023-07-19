@@ -308,7 +308,7 @@ export default {
 <div class="composition-api">
 
 ```js
-// my-component.js
+// my-composant.js
 import { ref } from 'vue'
 export default {
   setup() {
